@@ -1,4 +1,4 @@
-# csiq_quiz
+# Fierce Tech: Your 0 tech IQ
 
 Quiz App to test your 0 tech IQ
 
